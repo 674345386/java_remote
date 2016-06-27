@@ -23,6 +23,10 @@ public class Test {
 		for (int i : c) {
 			System.out.println(i);
 		}
+		
+		for(int j= 0; j<3;j++){
+			System.out.println(c[j]);
+		}
 		byte a1 =47;
 		byte b1 =35;
 //		byte c1 =a1+b1;    错误，a1+b1会先转成int 型
