@@ -1,9 +1,10 @@
 package a;
 
 public class A {
-	protected void eat(){
+	public void eat(){
 		System.out.print("class A eat");
 	}
 	
 	protected int num=1;
+	public int num3=1;
 }
