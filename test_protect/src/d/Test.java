@@ -15,6 +15,7 @@ public class Test {
 	char b;
 	char a;
 	static String str = "523";
+	static String str2 ="我很强";
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -38,6 +39,7 @@ public class Test {
 
 		// byte c1 =a1+b1; 错误，a1+b1会先转成int 型
 
+		
 	}
 
 }
